@@ -1,0 +1,6 @@
+encrypt:
+  key-store:
+    location: config-server.jks
+    alias: config-server-key
+    password: han123
+    secret: han123
